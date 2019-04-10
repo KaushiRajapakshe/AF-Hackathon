@@ -36,7 +36,7 @@ export default class AppContainer extends Component {
                             <tr style={{height:'8px'}}></tr>
                             <tr>
                                 <td>Contact Number         :</td>
-                                <td><input type="text" name="nic" placeholder="    123456789V" style={{width:'364px', height:'30px',paddingLeft:'16px',borderRadius:'5px',marginLeft:'55px'}}/></td>
+                                <td><input type="text" name="nic" placeholder="    777425432" style={{width:'364px', height:'30px',paddingLeft:'16px',borderRadius:'5px',marginLeft:'55px'}}/></td>
                             </tr>
                             <tr style={{height:'8px'}}></tr>
                             <tr>
@@ -46,7 +46,7 @@ export default class AppContainer extends Component {
                             <tr style={{height:'8px'}}></tr>
                             <tr>
                                 <td><input name="submit" type="submit" Value="Add Hotel" style={{width:'150px',height:'50px',backgroundColor:'#5f5e63',color:'white',borderRadius:'9px',marginTop:'10px',marginLeft:'60px'}}/></td>
-                                <td><input name="submit" type="submit" Value="Update Hotel" style={{width:'150px',height:'50px',backgroundColor:'#5f5e63',color:'white',borderRadius:'9px',marginTop:'10px',marginLeft:'60px'}}/></td>
+                                <td><input name="submit" type="submit" Value="Update Hotel" style={{width:'200px',height:'50px',backgroundColor:'#5f5e63',color:'white',borderRadius:'9px',marginTop:'10px',marginLeft:'60px'}}/></td>
                             </tr>
 
                         </table>

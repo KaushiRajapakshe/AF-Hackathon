@@ -30,7 +30,7 @@ export default class AppContainer extends Component {
                             <tr style={{height:'8px'}}></tr>
                             <tr>
                                 <td>Quality               :</td>
-                                <td><input type="date" name="nic" placeholder="    123456789V" style={{width:'364px', height:'30px',paddingLeft:'16px',borderRadius:'5px',marginLeft:'55px'}}/></td>
+                                <td><input type="text" name="nic" style={{width:'364px', height:'30px',paddingLeft:'16px',borderRadius:'5px',marginLeft:'55px'}}/></td>
                             </tr>
                             <tr style={{height:'8px'}}></tr>
                             <tr>
